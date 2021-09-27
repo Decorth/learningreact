@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.star {
+  color: #ff9933;
+  cursor: pointer;
+  background-color: #282c34;
+}
